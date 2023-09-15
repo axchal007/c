@@ -35,7 +35,7 @@ namespace Lab2_project
         static void Main(string[] args)
         {
             // Create an Employee instance
-            Employee employee = new Employee("MOHIT SHARMA", 25, 500000.00);
+            Employee employee = new Employee("anchal yadav", 21, 500000.00);
 
             // Display employee details using the method
             employee.DisplayDetails();
